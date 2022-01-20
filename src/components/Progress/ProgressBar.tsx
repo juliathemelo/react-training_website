@@ -3,7 +3,7 @@ import { useState } from "react";
 
 export function Progress() {
 
-    const [style, setStyle] = useState({});
+    const [style, setStyle] = useState({})
 	
 	setTimeout(() => {
 		const newStyle = {

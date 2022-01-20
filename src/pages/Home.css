@@ -1,0 +1,32 @@
+.spacer {
+    height: 50px;
+}
+
+.slogan_home {
+    color: white;
+    position: relative;
+    text-align: start;
+    opacity: 80%;
+    font-size: 6rem;
+}
+
+.planet_home {
+    height: 500px;
+    margin: 0 600px;
+}
+
+.text_title {
+    position: absolute;
+    display: flex;
+}
+
+.background_black {
+    height: 1000px;
+    background-color: #000;
+    background-size: cover;
+    background-image: url("../assets/ceu.gif");
+    background-position: center;
+    padding: 0 8%;
+    background-repeat: no-repeat; 
+    margin-bottom: 100px;
+}
