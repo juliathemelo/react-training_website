@@ -24,6 +24,14 @@
 
 @media screen and (max-width: 960px) {
     .progress {
+        width: 600px;
+        margin-top: 50%;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .progress {
         width: 400px;
+        margin-top: 50%;
     }
 }

@@ -30,3 +30,25 @@
     background-repeat: no-repeat; 
     margin-bottom: 100px;
 }
+
+@media screen and (max-width: 960px) {
+    .slogan_home {
+        font-size: 5rem;
+    }
+
+    .planet_home {
+        height: 300px;
+        margin: 0 200px;
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .slogan_home {
+        font-size: 3rem;
+    }
+
+    .planet_home {
+        height: 200px;
+        margin: 0 100px;
+    }
+}
